@@ -1,0 +1,1 @@
+I enjoy JavaScript because it allows alot of functionality to exist without alot fo repeative code. 
